@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mihir Pujara mihir_pujara@ymail.com @mihir_pujara
 
 # THANKS
 
