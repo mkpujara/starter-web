@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copy Right
 
-2018 Mihir Pujara, All Rights Reserved.
+2018 Mihir Pujara, Pujara Group of Engineers and Industries, All Rights Reserved.
